@@ -1,0 +1,38 @@
+h1 {
+    font-size: 35px;
+    text-align: center;
+}
+h2 {
+    font-size: 20px;
+    text-align:center;
+}
+
+body {
+    background-color: #00a2be;
+    color: #d21034;
+    /* font-family: 'Permanent Marker', cursive; */
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.row {
+    margin-top: 20px;
+}
+
+.the-game {
+    float: left;
+}
+
+.image-card {
+    float: right;
+}
+
+.card-text {
+    font-size: 25px;
+}
+.card {
+    height: 330px;
+    background-color: #f7c01e;
+}
