@@ -90,7 +90,7 @@ endGame: function() {
 
     if (game.guessesLeft === 0) {
         winnerText.textContent = "!!! " + "YOU LOSE" + " !!!";
-        imageHolder.src = "assets/images/prismo.png";
+        imageHolder.src = "assets/images/Prismo.png";
         cardText.textContent = "Try Again";
         this.gameReset();
     };
