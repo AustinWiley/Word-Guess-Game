@@ -1,5 +1,5 @@
 # Word-Guess-Game
 Javascripts, HTML and CSS - Word guess game with Adventure Time characters
 
-## Play the gaem here:
+## Play the game here:
 https://austinwiley.github.io/Word-Guess-Game/
